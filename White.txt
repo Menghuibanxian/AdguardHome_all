@@ -1,5 +1,5 @@
-# 更新时间: 2025-09-19 16:57:57
-# 白名单规则数：8125
+# 更新时间: 2025-09-19 17:25:28
+# 白名单规则数：8126
 # 作者名称: Menghuibanxian
 # 作者主页:https://github.com/Menghuibanxian/AdguardHome_all
 
@@ -70,6 +70,7 @@
 @@||go.adjust.com^|
 @@||clickattr.wayup.com^|
 @@||remembering.ca^|
+@@||obituaries.thestar.com^|
 @@||obituaries.therecord.com^|
 @@||catchup.thisisdax.com^|
 @@||px.a8.net^|
