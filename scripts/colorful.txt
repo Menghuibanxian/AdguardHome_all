@@ -1,5 +1,5 @@
-# 更新时间: 2025-09-20 22:55:50
-# 提取的规则数：8466
+# 更新时间: 2025-09-20 23:16:24
+# 提取的规则数：8467
 
 @@||ad.10010.com^
 @@||ad.abchina.com^
@@ -1860,6 +1860,7 @@
 @@||p*.toutiaoimg.com^
 @@||p-l.play.aiseet.atianqi.com^
 @@||p.qlogo.cn^
+@@||p0.pipi.cn^
 @@||p1-dcd.byteimg.com^
 @@||p1-lm.adbkwai.com^
 @@||p1-lm.adukwai.com^
